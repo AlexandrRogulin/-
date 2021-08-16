@@ -13,9 +13,8 @@
 
 <b>HTML/CSS/Slick Slider</b>
 
-<img src="activebox/preview (1).png" style='height: 200px' />
-<img src="activebox/preview3.png" style='height: 200px' />
-<img src="activebox/preview (2).png" style='height: 200px' />
+<img src='http://g.recordit.co/3L6awhaAwy.gif'>
+
 
 
 ## Logistic
@@ -24,10 +23,8 @@
 
 <b>HTML/CSS/JQuery</b>
 
-<img src="logistic/Full.png" style='height: 200px' />
-<img src="logistic/1024px.png" style='height: 200px' />
-<img src="logistic/768px.png" style='height: 200px' />
-<img src="logistic/320px.png" style='height: 200px' />
+<img src="http://g.recordit.co/kUOVVWD39N.gif" />
+
 
 ## Mogo
 Одностраничный сайт, адаптированный под мобильные устройства. Есть скрывающееся меню и применен слайдер изображений.
@@ -35,9 +32,8 @@
 <b>HTML/CSS/Slick Slider</b>
 
 
-<img src="mogo/full.png" style='height: 200px' />
-<img src="mogo/1024px.png" style='height: 200px' />
-<img src="mogo/576px.png" style='height: 200px' />
+<img src="http://g.recordit.co/GBvfTAQU0O.gif"  />
+
 
 ## Odigo
 Одностраничный сайт о турах в Японии, адаптированный под мобильные устройства. Есть скрывающееся меню, вствлалено видео с YouTube. реализована анимация некоторых объектов на CSS.
@@ -45,9 +41,8 @@
 <b>HTML/CSS</b>
 
 
-<img src="odigo/full.png" style='height: 200px' />
-<img src="odigo/991.png" style='height: 200px' />
-<img src="odigo/320px.png" style='height: 200px' />
+<img src="http://g.recordit.co/1GM9XubMB6.gif" />
+
 
 ## Portfolio
 Одностраничный сайт портфолио. Реализовано бургер-меню, модальные окна, сортировка проектов
